@@ -1,0 +1,34 @@
+# Pascale B Beauty Lab
+
+## About
+Located inside Ecastica Serviced Offices in Limassol, Pascale B Beauty Lab has built a five-star reputation through consistent, detail-oriented work and clients who keep coming back. Pascale B Beauty Lab is a beauty salon in Limassol, Cyprus.
+
+## Services
+Sample categories only — replace with Pascale B Beauty Lab's actual current menu and
+pricing before this file is published anywhere real:
+- Color & Balayage: Full color, highlights, and hand-painted balayage tailored to your hair's natural tone.
+- Cuts & Styling: Precision cuts and blowouts for everyday wear or a special occasion.
+- Manicure & Nails: Classic and gel manicures in a relaxed, unhurried setting.
+- Hair Treatments: Keratin, gloss, and repair treatments for damaged or over-processed hair.
+
+## Location
+Vasili Vrionidi 6, Limassol 3095 (inside Ecastica Serviced Offices)
+
+## Contact
+Phone: +357 25 581961
+Google Maps: https://www.google.com/maps/place/Pascale+B+Beauty+Lab/data=!4m7!3m6!1s0x14e7335efb4b2cc9:0x8e375385bb8a7089!8m2!3d34.6873071!4d33.0517485
+
+## Key Facts
+- 5.0-star Google rating from 68 reviews
+- Existing web presence: Unclaimed Google listing — no website or social profile found
+- Stylist referenced by name in customer reviews: Alexandros
+- Facts current as of 2026-08-31, sourced from the business's public Google Business listing
+
+## Status
+This is a concept demo site built from Pascale B Beauty Lab's public Google Business
+listing as an unsolicited outreach sample — it is not affiliated with or
+published by Pascale B Beauty Lab.
+
+## Markdown Mirror
+Clean, plain-text version of this page for AI readers:
+- https://pascale-b-beauty-lab-demo.vercel.app/index.md
