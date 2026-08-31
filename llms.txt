@@ -16,7 +16,7 @@ Vasili Vrionidi 6, Limassol 3095 (inside Ecastica Serviced Offices)
 
 ## Contact
 Phone: +357 25 581961
-Google Maps: https://www.google.com/maps/dir/?api=1&destination=34.6873071,33.0517485
+Google Maps: https://www.google.com/maps/search/?api=1&query=34.6873071,33.0517485
 
 ## Key Facts
 - 5.0-star Google rating from 68 reviews
