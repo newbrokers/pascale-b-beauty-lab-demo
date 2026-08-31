@@ -10,7 +10,7 @@ last_updated: 2026-08-31
 A 5.0-star beauty lab in the heart of Limassol — balayage, precision cuts, and manicures from a team clients keep coming back to.
 
 **Call to book:** +357 25 581961
-**Google Maps:** https://www.google.com/maps/search/?api=1&query=34.6873071,33.0517485
+**Google Maps:** https://www.google.com/maps/search/?api=1&query=Pascale+B+Beauty+Lab%2C+Vasili+Vrionidi+6%2C+Limassol+3095+%28inside+Ecastica+Serviced+Offices%29
 
 ## Services
 Sample categories — replace with the real menu before publishing:
@@ -36,7 +36,7 @@ point to show what a real site could look like.
 
 Vasili Vrionidi 6, Limassol 3095 (inside Ecastica Serviced Offices)
 Phone: +357 25 581961
-Maps: https://www.google.com/maps/search/?api=1&query=34.6873071,33.0517485
+Maps: https://www.google.com/maps/search/?api=1&query=Pascale+B+Beauty+Lab%2C+Vasili+Vrionidi+6%2C+Limassol+3095+%28inside+Ecastica+Serviced+Offices%29
 
 ---
 Concept design built from Pascale B Beauty Lab's public Google Business listing — not
